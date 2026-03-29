@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @Avelloo
-- 🌱 I’m currently learning c# <3
